@@ -1,5 +1,14 @@
-d 'DEA': Data envelopment analysis
+d 'ipwlogit': Fit marginal logistic regression by inverse probability weighting With Use ipwlogit STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _ipwlogit_svy.ado
+f gologit2.ado
+f gologit2.sthlp
+f gologit2_autofit.ado
+f gologit2_lincom.ado
+f gologit2_ll.ado
+f gologit2_p.ado
+f gologit2_svy.ado
+f gologit2_svy_check.ado
+f gsvy.ado
+f ipwlogit.ado
+f ipwlogit.sthlp
