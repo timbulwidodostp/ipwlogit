@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ipwlogit Fit marginal logistic regression by inverse probability weighting Use ipwlogit With STATA 18
