@@ -1,5 +1,5 @@
 # ipwlogit
-Fit marginal logistic regression by inverse probability weighting With Use ipwlogit STATA 18
+Fit marginal logistic regression by inverse probability weighting Use ipwlogit With STATA 18
 
 Olah Data Semarang
 
