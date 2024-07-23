@@ -1,6 +1,8 @@
 # ipwlogit
 Fit marginal logistic regression by inverse probability weighting Use ipwlogit With STATA 18
 
+https://www.youtube.com/watch?v=ipXoAHs5NXA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
